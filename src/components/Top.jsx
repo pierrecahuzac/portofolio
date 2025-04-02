@@ -1,7 +1,7 @@
 import { AiOutlineArrowUp } from "react-icons/ai";
 import { HashLink } from "react-router-hash-link";
 
-import "../Assets/CSS/Top.scss";
+import "../assets/CSS/Top.scss";
 
 const  Top = () => {
   return (

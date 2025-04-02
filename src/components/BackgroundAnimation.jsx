@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useState } from "react";
 import { initParticlesEngine, Particles } from "@tsparticles/react";
-import "../Assets/CSS/BackgroundAnimation.scss";
+import "../assets/CSS/BackgroundAnimation.scss";
 import { loadSlim,  } from "@tsparticles/slim";
 const BackgroundAnimation = () => {
   const [init, setInit] = useState(false);
@@ -77,16 +77,7 @@ const BackgroundAnimation = () => {
     }),
     []
   );
-  
-  // if (init) {
-  //   return (
-  //     <Particles
-  //       id="tsparticles"
-  //       particlesLoaded={particlesLoaded}
-  //       options={options}
-  //     />
-  //   );
-  // }
+ 
   useEffect(() => {
     initParticlesEngine(async (engine) => {
       // you can initiate the tsParticles instance (engine) here, adding custom shapes or presets

@@ -1,5 +1,5 @@
-import "../Assets/CSS/Skills.scss";
-import SkillsData from "../Assets/projects.json";
+import "../assets/CSS/Skills.scss";
+import SkillsData from "../assets/projects.json";
 
 
 

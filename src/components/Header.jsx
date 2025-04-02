@@ -2,7 +2,7 @@ import { HashLink } from "react-router-hash-link";
 import { GiHamburgerMenu } from "react-icons/gi";
 import { RiCloseFill } from "react-icons/ri";
 
-import "../Assets/CSS/Header.scss";
+import "../assets/CSS/Header.scss";
 
 const Header = ({ isOpen, setIsOpen }) => {
   const handleMenu = () => {

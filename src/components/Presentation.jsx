@@ -1,7 +1,7 @@
 import { FaLinkedin, FaGithub } from "react-icons/fa";
 import { FiMail } from "react-icons/fi";
-import "./../Assets/CSS/Presentation.scss";
-import presentation from "../Assets/projects.json";
+import "./../assets/CSS/Presentation.scss";
+import presentation from "../assets/projects.json";
 
 const  Presentation = () => {
   return (
