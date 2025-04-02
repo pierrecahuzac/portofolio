@@ -1,0 +1,119 @@
+@media screen and (max-width: 1000px) {
+  .projects {
+    &_list {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      margin: auto;
+      width: 80%;
+      margin-bottom: 100px;
+    }
+  }
+  .project {
+    border-radius: 50px;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: auto;
+
+    &_title_container {
+      width: auto;
+      display: flex;
+      flex-direction: column;
+      text-align: center;
+    }
+    &_img-container {
+      display: block;
+      height: 200px;
+      width: 200px;
+    }
+    &_img {
+      width: 100%;
+      height: 100%;
+      border-radius: 15px;
+    }
+    &_description {
+      font-size: 24px;
+      font-weight: 700;
+    }
+    &_techno {
+      font-size: 16px;
+      font-weight: 400;
+      display: flex;
+      align-items: center;
+      font-family: Roboto, sans-serif;
+      justify-content: center;
+    }
+  }
+}
+@media screen and (min-width: 1001px) {
+  .projects {
+    width: 80%;
+    height: auto;
+    margin: auto;
+    padding-top: 50px;
+    margin-bottom: 50px;
+    &_text {
+      display: flex;
+    }
+    &_list {
+      display: flex;
+      flex-direction: column;
+      margin: auto;
+      width: 100%;
+    }
+  }
+
+  .project {
+    background-color: #223a55;
+    display: flex;
+    max-width: auto;
+    height: 270px;
+    align-items: center;
+    background-color: transparent;
+    justify-content: space-between;
+    margin: 20px;
+    &_title_container {
+      width: 200px;
+      display: flex;
+      text-align: left;
+    }
+    &_informations {
+      width: 35%;
+    }
+    &_techno {
+      font-size: 18px;
+      font-weight: 400;
+      margin-left: 30px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    &_img-container {
+      display: block;
+      width: 270px;
+      height: 270px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      object-fit: cover;
+      margin-left: 50px;
+    }
+    &_img {
+      width: 100%;
+      height: auto;
+      object-fit: cover;
+      border-radius: 15px;
+    }
+    &_img:hover {
+      border: solid 1px grey;
+    }
+    &_informations {
+      font-size: 18px;
+    }
+  }
+}

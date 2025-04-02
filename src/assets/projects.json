@@ -1,0 +1,105 @@
+{
+  "presentation": [
+    {
+      "h1": "Pierre CAHUZAC",
+      "h2": "Développeur javaScript",
+      "subtitle": "Fin 2018, après 10 années dans la vente, l'envie d'un nouveau défi professionnel et passionné depuis toujours par le numérique, j'ai décidé de me reconvertir dans le développement web afin laisser libre court à mes envies créatives."
+    }
+  ],
+  "projects": [
+    {
+      "h4": "Collectify",
+      "p": "Application de gestion de collections bootées à l'IA.",
+      "techno": "TS / React / Nest / Postgres / Prisma",
+      "link": "",
+      "img": ""
+    },
+    {
+      "h4": "WeStiti (MVP)",
+      "p": "Projet de fin de formation TP CDA, permet de partager des photos lors d'événements privés ou publics.",
+      "techno": "TS / React / Nest / Postgres / Prisma ",
+      "link": "https://app.pierrecahuzac.online/",
+      "img": "/westiti.png"
+    },
+    {
+      "h4": "Refonte visuelle de Météo actuelle",
+      "p": "Projet frontend de recherche de la météo",
+      "techno": "React",
+      "link": "https://meteo-actuelle.vercel.app/",
+      "img": "/meteo-actuelle_nv.jpg"
+    },
+  
+    {
+      "h4": "PIXEL ART",
+      "p": "Projet pour dessiner en pixel art",
+      "techno": "React",
+      "link": "https://drawer-ivory.vercel.app/",
+      "img": "/pixel_art.png"
+    },
+
+    {
+      "h4": "SITE DU GROUPE BEN & FIST",
+      "p": "Site du groupe de punk/rock toulousain Ben et Fist",
+      "techno": "NextJS",
+      "link": "https://ben-fist-nextjs.vercel.app/",
+      "img": "/ben_et_fist.png"
+    },
+
+    {
+      "h4": "METEO ACTUELLE",
+      "p": "Projet frontend de recherche de la météo",
+      "techno": "React, Redux",
+      "link": "https://meteo-actuelle.netlify.app/",
+      "img": "/meteo-actuelle.png"
+    },
+
+    {
+      "h4": "TARKOV ITEMS MANAGER",
+      "p": "Projet de fin de formation en équipe, permet un suivi de l'évolution du joueur dans le jeu Escape from Tarkov",
+      "techno": "React, Redux, PostgrSQL, NodeJS, Express",
+      "link": "https://www.youtube.com/watch?t=2835&v=Z7l8V3uRuVc&feature=youtu.be",
+      "img": "/tarkov.png"
+    }
+  ],
+  "skills": [
+    {
+      "img": "/html-5-logo-svgrepo-com.svg"
+    },
+    {
+      "img": "/css-svgrepo-com.svg"
+    },
+
+    {
+      "img": "/js-svgrepo-com.svg"
+    },
+    {
+      "img": "/TS.png"
+    },
+    {
+      "img": "/prismajs.png"
+    },
+    {
+      "img": "/nest.png"
+    },
+    {
+      "img": "/react-svgrepo-com.svg"
+    }
+  ],
+  "logos": [
+    {
+      "title": "Email",
+      "img": "/svg/email-mail-svgrepo-com.svg",
+      "link": "mailto:cahuzac.p@gmail.com"
+    },
+    {
+      "title": "LinkedIn",
+      "img": "/svg/linkedin-240.svg",
+      "link": "https://www.linkedin.com/in/pcahuzac/"
+    },
+    {
+      "title": "GitHub",
+      "img": "/svg/iconmonstr-github-1.svg",
+      "link": "https://github.com/inflames32"
+    }
+  ]
+}
