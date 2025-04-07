@@ -9,6 +9,7 @@ import Skills from "./Skills.jsx";
 
 import "../assets/styles/App.scss";
 
+
 export default function App() {
   useEffect(() => {
     Aos.init({
