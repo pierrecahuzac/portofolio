@@ -1,3 +1,4 @@
+@import "_vars";
 @media screen and (max-width: 1000px) {
   .skills {
     display: flex;
@@ -5,6 +6,7 @@
     align-items: center;
     margin-top: 50px;
     padding-top: 50px;
+    font-family: $primary-font;
     &_container {
       display: flex;
       flex-wrap: wrap;
@@ -18,9 +20,7 @@
       width: 100px;
       height: 100px;
     }
-    &_title {
-      
-    }
+   
   }
 }
 @media screen and (min-width: 1001px) {
