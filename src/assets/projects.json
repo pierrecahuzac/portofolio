@@ -12,21 +12,21 @@
       "p": "Application de gestion de collections bootées à l'IA.",
       "techno": "TS / React / Nest / Postgres / Prisma",
       "link": "",
-      "img": ""
+      "img": "/no__capture.webp"
     },
     {
       "h4": "WeStiti (MVP)",
       "p": "Projet de fin de formation TP CDA, permet de partager des photos lors d'événements privés ou publics.",
       "techno": "TS / React / Nest / Postgres / Prisma ",
       "link": "https://app.pierrecahuzac.online/",
-      "img": "/westiti.png"
+      "img": "/westiti.webp"
     },
     {
       "h4": "Refonte visuelle de Météo actuelle",
       "p": "Projet frontend de recherche de la météo",
       "techno": "React",
       "link": "https://meteo-actuelle.vercel.app/",
-      "img": "/meteo-actuelle_nv.jpg"
+      "img": "/meteo-actuelle_nv.webp"
     },
   
     {
@@ -34,7 +34,7 @@
       "p": "Projet pour dessiner en pixel art",
       "techno": "React",
       "link": "https://drawer-ivory.vercel.app/",
-      "img": "/pixel_art.png"
+      "img": "/pixel_art.webp"
     },
 
     {
@@ -42,7 +42,7 @@
       "p": "Site du groupe de punk/rock toulousain Ben et Fist",
       "techno": "NextJS",
       "link": "https://ben-fist-nextjs.vercel.app/",
-      "img": "/ben_et_fist.png"
+      "img": "/ben_et_fist.webp"
     },
 
     {
@@ -50,7 +50,7 @@
       "p": "Projet frontend de recherche de la météo",
       "techno": "React, Redux",
       "link": "https://meteo-actuelle.netlify.app/",
-      "img": "/meteo-actuelle.png"
+      "img": "/meteo-actuelle.webp"
     },
 
     {
@@ -58,7 +58,7 @@
       "p": "Projet de fin de formation en équipe, permet un suivi de l'évolution du joueur dans le jeu Escape from Tarkov",
       "techno": "React, Redux, PostgrSQL, NodeJS, Express",
       "link": "https://www.youtube.com/watch?t=2835&v=Z7l8V3uRuVc&feature=youtu.be",
-      "img": "/tarkov.png"
+      "img": "/tarkov.webp"
     }
   ],
   "skills": [
@@ -73,13 +73,13 @@
       "img": "/js-svgrepo-com.svg"
     },
     {
-      "img": "/TS.png"
+      "img": "/TS.webp"
     },
     {
-      "img": "/prismajs.png"
+      "img": "/prismajs.webp"
     },
     {
-      "img": "/nest.png"
+      "img": "/nest.webp"
     },
     {
       "img": "/react-svgrepo-com.svg"

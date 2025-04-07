@@ -1,4 +1,4 @@
-import "../assets/CSS/Skills.scss";
+import "../assets/styles/Skills.scss";
 import SkillsData from "../assets/projects.json";
 
 
