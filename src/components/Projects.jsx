@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import projects from "../assets/projects.json";
 
-import "../assets/CSS/Projects.scss";
+import "../assets/styles/Projects.scss";
 
 const Projects = () => {
   return (

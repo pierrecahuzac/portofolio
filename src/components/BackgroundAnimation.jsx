@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useState } from "react";
 import { initParticlesEngine, Particles } from "@tsparticles/react";
-import "../assets/CSS/BackgroundAnimation.scss";
+import "../assets/styles/BackgroundAnimation.scss";
 import { loadSlim,  } from "@tsparticles/slim";
 const BackgroundAnimation = () => {
   const [init, setInit] = useState(false);

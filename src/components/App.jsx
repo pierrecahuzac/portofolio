@@ -6,7 +6,8 @@ import Presentation from "./Presentation.jsx";
 import Projects from "./Projects";
 import Top from "./Top";
 import Skills from "./Skills.jsx";
-import "../assets/CSS/App.scss";
+
+import "../assets/styles/App.scss";
 
 export default function App() {
   useEffect(() => {
