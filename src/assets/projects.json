@@ -12,7 +12,7 @@
       "p": "Application de gestion de collections bootée à l'IA. (en cours de développement)",
       "techno": "TS / React / Nest / Postgres / Prisma",
       "link": "https://collections-seven-iota.vercel.app",
-      "img": "/collectify.png"
+      "img": "/collectify.webp"
     },
     {
       "h4": "WeStiti (MVP)",
