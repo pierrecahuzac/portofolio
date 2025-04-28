@@ -9,9 +9,9 @@
   "projects": [
     {
       "h4": "Collectify",
-      "p": "Application de gestion de collections bootées à l'IA.",
+      "p": "Application de gestion de collections bootée à l'IA. (en cours de développement)",
       "techno": "TS / React / Nest / Postgres / Prisma",
-      "link": "",
+      "link": "https://collections-seven-iota.vercel.app",
       "img": "/no__capture.webp"
     },
     {
