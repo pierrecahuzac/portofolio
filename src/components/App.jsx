@@ -24,8 +24,7 @@ export default function App() {
       <BackgroundAnimation />
       <Header isOpen={isOpen} setIsOpen={setIsOpen} />
       <div>
-        {" "}
-        <Top />
+        <Top isOpen={isOpen}/>
         <Presentation />
         <Skills />
         <Projects />
