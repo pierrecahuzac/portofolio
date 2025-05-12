@@ -8,6 +8,13 @@
   ],
   "projects": [
     {
+      "h4": "Gestion de productions",
+      "p": "Application de gestion de suivi d'affaires et de productions, réalisé dans le cadre de mon titre pro Concepteur Développeur d'Applications en alternance dans la société Groupe PARERA",
+      "techno": "TS / React / ExpressJs / Postgres / Prisma",
+      "link": "/#projects",
+      "img": "/suivi.png"
+    },
+    {
       "h4": "Collectify",
       "p": "Application de gestion de collections bootée à l'IA. (en cours de développement)",
       "techno": "TS / React / Nest / Postgres / Prisma",
@@ -73,7 +80,7 @@
       "img": "/js-svgrepo-com.svg"
     },
     {
-      "img": "/TS.webp"
+      "img": "/typescript-icon-svgrepo-com.svg"
     },
     {
       "img": "/prismajs.webp"
