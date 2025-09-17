@@ -1,0 +1,5 @@
+:80 { # Caddy écoute sur le port 80 à l'intérieur de CE conteneur
+    root * /srv
+    file_server
+    try_files {path} /index.html
+}

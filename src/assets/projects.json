@@ -15,11 +15,11 @@
       "img": "/suivi.png"
     },
     {
-      "h4": "Collectify",
-      "p": "Application de gestion de collections bootée à l'IA. (en cours de développement)",
+      "h4": "Partage ta collection",
+      "p": "Application de gestion de multiples collections",
       "techno": "TS / React / Nest / Postgres / Prisma",
-      "link": "https://collections-seven-iota.vercel.app",
-      "img": "/collectify.webp"
+      "link": "https://partagetacollection.eu",
+      "img": "/partagetacollection.webp"
     },
     {
       "h4": "WeStiti (MVP)",
